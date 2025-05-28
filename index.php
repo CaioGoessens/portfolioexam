@@ -20,6 +20,7 @@ $projects = $stmt->fetchAll();
     .project-card { background: linear-gradient(135deg, #42a5f5, #478ed1); color: white; padding: 20px; border-radius: 10px; text-align: center; font-weight: bold; text-decoration: none; }
     .project-card:hover { transform: scale(1.05); transition: transform 0.2s ease; }
   </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
