@@ -1,7 +1,7 @@
 
 <?php
 $host = 'localhost';
-$db   = 'portfolio_db';
+$db   = 'portfoliodb';
 $user = 'caiogoessens.nl';
 $pass = '*JDneG221*@';
 $charset = 'utf8mb4';
