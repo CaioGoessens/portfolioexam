@@ -23,13 +23,48 @@ $projects = $stmt->fetchAll();
 </head>
 <body>
 
-<section class="intro">
-  <h1>Hi, I'm [Your Name]</h1>
-  <p>
-    I'm a full-stack developer focused on building modern web applications.
-    I enjoy working with PHP, JavaScript, C#, and MySQL. This portfolio showcases a few of my personal and professional projects.
-  </p>
+<section class="about-me">
+  <h1>👋 Hi, I'm [Your Name]</h1>
+  <p>I’m a software developer with a passion for clean code, creative interfaces, and solving real-world problems using web technologies.</p>
+
+  <div class="about-section">
+    <h2>🎓 Education</h2>
+    <ul>
+      <li>MBO Software Development — [School Name], [Year]</li>
+      <li>High School — [School Name], [Year]</li>
+    </ul>
+  </div>
+
+  <div class="about-section">
+    <h2>🧠 Skills</h2>
+    <div class="skill">
+      <span>PHP</span>
+      <div class="bar"><div style="width: 85%;"></div></div>
+    </div>
+    <div class="skill">
+      <span>MySQL</span>
+      <div class="bar"><div style="width: 80%;"></div></div>
+    </div>
+    <div class="skill">
+      <span>HTML/CSS</span>
+      <div class="bar"><div style="width: 90%;"></div></div>
+    </div>
+    <div class="skill">
+      <span>JavaScript</span>
+      <div class="bar"><div style="width: 75%;"></div></div>
+    </div>
+    <div class="skill">
+      <span>C#</span>
+      <div class="bar"><div style="width: 65%;"></div></div>
+    </div>
+  </div>
+
+  <div class="about-section">
+    <h2>🎯 Current Focus</h2>
+    <p>Building dynamic PHP/MySQL-based applications, improving UI/UX skills, and exploring Laravel and JavaScript frameworks like Vue or React.</p>
+  </div>
 </section>
+
 
   <div class="container">
     <h1>My Projects <a href="add_project.php" class="button">+ Add Project</a></h1>
