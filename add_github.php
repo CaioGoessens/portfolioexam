@@ -1,5 +1,7 @@
 <?php include 'db.php';
 
+
+
 $project_id = $_GET['id'] ?? 0;
 
 // Fetch current project

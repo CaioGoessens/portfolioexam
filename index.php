@@ -22,6 +22,15 @@ $projects = $stmt->fetchAll();
   </style>
 </head>
 <body>
+
+<section class="intro">
+  <h1>Hi, I'm [Your Name]</h1>
+  <p>
+    I'm a full-stack developer focused on building modern web applications.
+    I enjoy working with PHP, JavaScript, C#, and MySQL. This portfolio showcases a few of my personal and professional projects.
+  </p>
+</section>
+
   <div class="container">
     <h1>My Projects <a href="add_project.php" class="button">+ Add Project</a></h1>
 
