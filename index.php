@@ -25,19 +25,18 @@ $projects = $stmt->fetchAll();
 <body>
 
 <section class="about-me">
-  <h1>👋 Hi, I'm [Your Name]</h1>
-  <p>I’m a software developer with a passion for clean code, creative interfaces, and solving real-world problems using web technologies.</p>
+  <h1>Mijn naam is Caio Goessens.</h1>
+  <p>Ik ben een 18-jarige softwareontwikkelaar die graag nieuwe dingen leert. Ik heb veel plezier in programmeren en werk graag aan websites en programma’s. Ik vind het leuk om problemen op te lossen met code en om steeds beter te worden in wat ik doe.</p>
 
   <div class="about-section">
-    <h2>🎓 Education</h2>
+    <h2>Educatie</h2>
     <ul>
-      <li>MBO Software Development — [School Name], [Year]</li>
-      <li>High School — [School Name], [Year]</li>
+      <li>MBO-4 Software Development — Vista College, Cohort 2022</li>
     </ul>
   </div>
 
   <div class="about-section">
-    <h2>🧠 Skills</h2>
+    <h2>Skills</h2>
     <div class="skill">
       <span>PHP</span>
       <div class="bar"><div style="width: 85%;"></div></div>
@@ -61,8 +60,8 @@ $projects = $stmt->fetchAll();
   </div>
 
   <div class="about-section">
-    <h2>🎯 Current Focus</h2>
-    <p>Building dynamic PHP/MySQL-based applications, improving UI/UX skills, and exploring Laravel and JavaScript frameworks like Vue or React.</p>
+    <h2>Focus</h2>
+    <p>Ik werk aan dynamische applicaties met PHP en MySQL. Ook verbeter ik mijn ontwerp- en gebruikerservaring (UI/UX) vaardigheden. Daarnaast leer ik werken met Laravel en JavaScript-frameworks zoals Vue of React.</p>
   </div>
 </section>
 
