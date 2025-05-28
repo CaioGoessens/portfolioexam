@@ -25,7 +25,7 @@ $projects = $stmt->fetchAll();
 <body>
 
 <section class="about-me">
-  <h1>Mijn naam is Caio Goessens.</h1>
+  <h1>Mijn naam is Caio Goessens!</h1>
   <p>Ik ben een 18-jarige softwareontwikkelaar die graag nieuwe dingen leert. Ik heb veel plezier in programmeren en werk graag aan websites en programma’s. Ik vind het leuk om problemen op te lossen met code en om steeds beter te worden in wat ik doe.</p>
 
   <div class="about-section">
