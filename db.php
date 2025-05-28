@@ -2,8 +2,8 @@
 <?php
 $host = 'localhost';
 $db   = 'portfolio_db';
-$user = 'root';
-$pass = '';
+$user = 'caiogoessens.nl';
+$pass = '*JDneG221*@';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";

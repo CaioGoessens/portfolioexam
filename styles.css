@@ -39,3 +39,9 @@ body {
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+.content-item h2 {
+  border-bottom: 2px solid #42a5f5;
+  padding-bottom: 5px;
+  margin-top: 30px;
+  color: #2c3e50;
+}
